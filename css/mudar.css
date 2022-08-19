@@ -1,0 +1,37 @@
+@charset "UTF-8";
+#user{
+    color: #5F0000;}
+
+#confirma{
+    color: #0000FF;}
+
+#endereco{
+    color: rgb(211, 211, 0);}
+    
+body{
+    background-image: url(../img/fundo/comunicado.jpg);}    
+
+#title{
+    padding: 0% 20% 0% 35%;
+    color: #f7d600;}
+
+li{
+    display: inline;}    
+
+fieldset{
+       background-color: rgb(102, 161, 128);} 
+label{
+    color: #044a04;
+    font-size: 150%;}
+    
+input{
+    width: 20%;
+    height: 20px;
+    border: none; 
+    border-radius: 05px;}    
+
+#usuario, #senha, #local{
+    width: 05%;
+    height: 20px;
+    border: none; 
+    border-radius: 05px;}

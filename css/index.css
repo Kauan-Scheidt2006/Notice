@@ -1,0 +1,29 @@
+@charset "UTF-8";
+@font-face {
+    font-family: "lokicola";
+    src: url(../loki_cola/cocacola.ttf);}
+
+.menu{background-color: #7584d8;}
+
+li{display: inline;}
+
+p{
+    font-style: "lokicola";
+}
+
+h1{
+   font-style: "lokicola";
+   color: #DF2143;
+   margin-left: 25%;
+   font-size: 90px;}
+
+body{
+    background-image: url(../img/fundo/comunicado.jpg);}
+
+img{border-radius: 100%;}
+
+#diferente{
+    border-radius: 00%;}
+
+.notificado{
+    background-color: #BFFF8E;}   

@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+body{
+    background-color:darkgreen ;}
+#h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-left: 41%;}
+#h2{
+    font-style: oblique;
+    padding-left: 35%;
+    color: #FF0621;}
+fieldset{
+    background-image: url(../img/fundo/comunicado.jpg);}

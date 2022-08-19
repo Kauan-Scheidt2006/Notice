@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+.all{background-image: url(../img/fundo/comunicado.jpg);}
+h1{font-family: serif;
+color: #DF2143;
+margin-left: 25%;
+font-size: 90px;}
+
+li{display: inline;}
+
+.menu{
+    background-color: #7584d8;}
+
+.perfil{
+    background-color: #bfff8e}    
+
+
+h2{font-family: serif;
+color: #FD0203;
+margin-left: 25%;
+font-size: 40px;}
+
+
+#unico{color: #FF0030;}
+
+.hr{color: rgb(24, 118, 0);}
+
+p{font-family: Arial, Helvetica, sans-serif;}
+
+img{border-radius: 100%;}
+
+#diferente{border-radius: 0%;}
+
+
+h3{font-family: serif;
+color: #004599;}
